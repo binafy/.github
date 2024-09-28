@@ -7,6 +7,7 @@
 ## Laravel Packages ❤️
 
 - [Laravel User Monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application
+- [Laravel Cart](https://github.com/binafy/laravel-cart) - Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications
 
 ## Go Projects 💙
 
