@@ -9,10 +9,11 @@
 - [Laravel User Monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application
 - [Laravel Cart](https://github.com/binafy/laravel-cart) - Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications
 - [Artisan Finder](https://github.com/binafy/artisan-finder) - Find your artisan commands
+- [Laravel Stub](https://github.com/binafy/laravel-stub) - Generate stub files very easily in the Laravel framework
 
 ## Go Projects 💙
 
-- [Go Mini Projects](https://github.com/binafy/go-mini-projects) - A lot of mini projects that created with Golang
+- [Go Mini Projects](https://github.com/binafy/go-mini-projects) - A lot of mini-projects were created with Golang
 
 ## Miscellaneous 🔥
 
