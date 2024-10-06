@@ -10,6 +10,7 @@
 - [Laravel Cart](https://github.com/binafy/laravel-cart) - Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications
 - [Artisan Finder](https://github.com/binafy/artisan-finder) - Find your artisan commands
 - [Laravel Stub](https://github.com/binafy/laravel-stub) - Generate stub files very easily in the Laravel framework
+- [Laravel Discount)(https://github.com/binafy/laravel-discount) - The Laravel-Discount is a Laravel package designed to handle discounts in your application effortlessly.
 
 ## Go Projects 💙
 
