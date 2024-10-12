@@ -12,6 +12,7 @@
 - [Laravel Stub](https://github.com/binafy/laravel-stub) - Generate stub files very easily in the Laravel framework
 - [Laravel Discount](https://github.com/binafy/laravel-discount) - The Laravel-Discount is a Laravel package designed to handle discounts in your application effortlessly
 - [Laravel Unused Finder](https://github.com/binafy/laravel-unused-finder) - Find unused code in Laravel
+- [Laravel Reactions](https://github.com/binafy/laravel-reactions) - React to somethings in Laravel
 
 ## Go Projects 💙
 
