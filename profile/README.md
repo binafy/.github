@@ -14,7 +14,7 @@
 - [Laravel Unused Finder](https://github.com/binafy/laravel-unused-finder) - Find unused code in Laravel
 - [Laravel Reactions](https://github.com/binafy/laravel-reactions) - React to somethings in Laravel
 - [Laravel Score](https://github.com/binafy/laravel-score) - Give score to anything in Laravel
-- [Laravel Authen](https://github.com/binafy/laravel-score)
+- [Laravel Authen](https://github.com/binafy/laravel-score) -
 
 ## Go Projects 💙
 
@@ -22,4 +22,4 @@
 
 ## Miscellaneous 🔥
 
-- [Docker Repo](https://github.com/binafy/docker-repo) - A world of dockerize project with multiple languages
+- [Docker Repo](https://github.com/binafy/docker-repo) - A world of dockerize projects with multiple languages
