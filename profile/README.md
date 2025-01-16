@@ -15,6 +15,8 @@
 - [Laravel Reactions](https://github.com/binafy/laravel-reactions) - React to somethings in Laravel
 - [Laravel Score](https://github.com/binafy/laravel-score) - Give score to anything in Laravel
 - [Laravel Authen](https://github.com/binafy/laravel-score) - Initialize PRO authentication in Laravel
+
+
 ## Go Projects 💙
 
 - [Go Mini Projects](https://github.com/binafy/go-mini-projects) - A lot of mini-projects were created with Golang
