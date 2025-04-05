@@ -4,9 +4,9 @@
     </a>
 </p>
 
-## Laravel Packages ❤️
+## <img src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" width="25"> Laravel Packages 
 
-- [Laravel User Monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your user and all activity on your application
+- [Laravel User Monitoring](https://github.com/binafy/laravel-user-monitoring) - Monitor your users and all activity on your application
 - [Laravel Cart](https://github.com/binafy/laravel-cart) - Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications
 - [Artisan Finder](https://github.com/binafy/artisan-finder) - Find your artisan commands
 - [Laravel Stub](https://github.com/binafy/laravel-stub) - Generate stub files very easily in the Laravel framework
@@ -23,4 +23,4 @@
 
 ## Miscellaneous 🔥
 
-- [Docker Repo](https://github.com/binafy/docker-repo) - A world of dockerize projects with multiple languages
+- [Docker Repo](https://github.com/binafy/docker-repo) - A world of dockerized projects with multiple languages
