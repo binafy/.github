@@ -14,7 +14,7 @@
 - [Laravel Unused Finder](https://github.com/binafy/laravel-unused-finder) - Find unused code in Laravel
 - [Laravel Reactions](https://github.com/binafy/laravel-reactions) - React to somethings in Laravel
 - [Laravel Score](https://github.com/binafy/laravel-score) - Give score to anything in Laravel
-- [Laravel Authen](https://github.com/binafy/laravel-score) - Initialize PRO authentication in Laravel
+- [Laravel Authen](https://github.com/binafy/laravel-authen) - Initialize PRO authentication in Laravel
 - [PHP Color Generator](https://github.com/binafy/php-color-generator) - Color Generator for PHP
 
 ## Go Projects 💙
