@@ -16,6 +16,8 @@
 - [Laravel Authen](https://github.com/binafy/laravel-authen) - Initialize PRO authentication in Laravel
 - [PHP Color Generator](https://github.com/binafy/php-color-generator) - Color Generator for PHP
 
+## <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="25"> Go Packages 
+
 ## Go Projects 💙
 
 - [Go Mini Projects](https://github.com/binafy/go-mini-projects) - A lot of mini-projects were created with Golang
