@@ -18,6 +18,8 @@
 
 ## <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="25"> Go Packages 
 
+- [Go Stub](https://github.com/binafy/php-color-generator) - Color Generator for PHP
+
 ## Go Projects 💙
 
 - [Go Mini Projects](https://github.com/binafy/go-mini-projects) - A lot of mini-projects were created with Golang
