@@ -18,7 +18,7 @@
 
 ## <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="25"> Go Packages 
 
-- [Go Stub](https://github.com/binafy/go-stub) - Stub generator for Golang
+- [Go Stub](https://github.com/binafy/go-stub) - A tiny, zero-dependency Go toolkit for generating boilerplate from stub templates
 
 ## <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" width="25"> Go Projects
 
